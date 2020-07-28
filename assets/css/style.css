@@ -209,7 +209,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero:before {
   content: "";
-  background: rgba(5, 13, 24, 0.3);
+  background: rgba(1, 13, 24, 0.3);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -241,8 +241,8 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero p span {
   color: #fff;
-  padding-bottom: 4px;
-  letter-spacing: 1px;
+  padding-bottom: 9px;
+  letter-spacing: 2px;
   border-bottom: 3px solid #149ddd;
 }
 
@@ -258,7 +258,7 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 36px;
   }
   #hero h2 {
-    font-size: 28px;
+    font-size: 30px;
     line-height: 24px;
     margin-bottom: 30px;
   }
