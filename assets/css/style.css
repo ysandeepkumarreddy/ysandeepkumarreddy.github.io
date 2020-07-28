@@ -951,9 +951,9 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  padding: 15px;
+  padding: 1px;
   color: #f4f6fd;
-  font-size: 12 px;
+  font-size: 15px;
   position: fixed;
   left: 0;
   bottom: 0;
@@ -969,7 +969,7 @@ section {
 #footer .credits {
   padding-top: 3px;
   text-align: center;
-  font-size: 13px;
+  font-size: 15px;
   color: #eaebf0;
 }
 
