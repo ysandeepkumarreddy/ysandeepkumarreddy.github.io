@@ -579,13 +579,13 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Services
+# works
 --------------------------------------------------------------*/
-.services .icon-box {
+.works .icon-box {
   margin-bottom: 20px;
 }
 
-.services .icon {
+.works .icon {
   float: left;
   display: flex;
   align-items: center;
@@ -598,35 +598,35 @@ section {
   border: 1px solid #149ddd;
 }
 
-.services .icon i {
+.works .icon i {
   color: #fff;
   font-size: 24px;
 }
 
-.services .icon-box:hover .icon {
+.works .icon-box:hover .icon {
   background: #fff;
 }
 
-.services .icon-box:hover .icon i {
+.works .icon-box:hover .icon i {
   color: #149ddd;
 }
 
-.services .title {
+.works .title {
   margin-left: 80px;
   font-weight: 700;
   margin-bottom: 15px;
   font-size: 18px;
 }
 
-.services .title a {
+.works .title a {
   color: #343a40;
 }
 
-.services .title a:hover {
+.works .title a:hover {
   color: #149ddd;
 }
 
-.services .description {
+.works .description {
   margin-left: 80px;
   line-height: 24px;
   font-size: 14px;
