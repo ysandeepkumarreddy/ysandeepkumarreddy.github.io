@@ -1,12 +1,12 @@
 #General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #272829;
 }
 
 a {
-  color: #149ddd;
+  color: #0d0d82;
 }
 
 a:hover {
@@ -243,7 +243,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   padding-bottom: 9px;
   letter-spacing: 2px;
-  border-bottom: 3px solid #149ddd;
+  border-bottom: 3px solid #404547;
 }
 
 @media (min-width: 1024px) {
@@ -255,7 +255,7 @@ h1, h2, h3, h4, h5, h6 {
 @media (max-width: 768px) {
   #hero h1 {
     font-size: 32px;
-    line-height: 30px;
+    line-height: 36px;
   }
   #hero h2 {
     font-size: 30px;
@@ -414,7 +414,7 @@ section {
   width: 1px;
   height: 10px;
   transition: .9s;
-  background-color: #149ddd;
+  background-color: #073869;
 }
 
 /*--------------------------------------------------------------
@@ -649,7 +649,7 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  color: #149ddd;
+  color: #117fbf;
   float: left;
   width: 44px;
   height: 44px;
@@ -700,7 +700,7 @@ section {
 }
 
 .contact .info .social-links a:hover {
-  background: #149ddd;
+  background: #010c17;
   color: #fff;
 }
 
@@ -785,7 +785,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"] {
-  background: #149ddd;
+  background: #010c17;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -952,7 +952,7 @@ section {
 --------------------------------------------------------------*/
 #footer {
   padding: 1px;
-  color: #f4f6fd;
+  color: #fff;
   font-size: 13px;
   position: fixed;
   left: 0;
