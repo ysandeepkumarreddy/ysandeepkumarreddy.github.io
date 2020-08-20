@@ -183,5 +183,6 @@
   $(window).on('load', function() {
     aos_init();
   });
+  
 
 })(jQuery);
